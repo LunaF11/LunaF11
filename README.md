@@ -1,5 +1,8 @@
-### Hi there 👋
+<div align="center">
+ <h1>HI THERE 😻</h1>
 
+<img width="41%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaF11&layout=compact&hide_border=true&title_color=6ce4c4&text_color=ffffff&bg_color=0d1117" />
+</div>
 <!--
 **LunaF11/LunaF11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
